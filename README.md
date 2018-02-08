@@ -1,5 +1,6 @@
 # JSU
 This document will explain in detail how to construct the website and tasks that we must complete.
+#Here's a music playlist to get in the zone.
 
 # 1. Learn Git
 https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
