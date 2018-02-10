@@ -16,8 +16,9 @@ Once you have created files and tested them you can push to the repository.
 
 # 4. Learn Markdown
 Markdown is the language this document is written in and takes 5 minutes to learn; this way you can add to the steps when you feel.
-# 5 Study Bulma Framework 
-this framework is what we are using to style the jewish student union website.
-https://bulma.io/
-# 6 TBD 
+# 5 We're switching to Skeleton CSS
+Bulma's too heavy and does not allow us to customize the site further than we have.
+- Skeletons Lightweight.
+-Skeletons less verbose.
+-Skeletons better built.
 
