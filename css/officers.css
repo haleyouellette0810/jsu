@@ -1,7 +1,5 @@
 .container {
   padding-top: 3rem;
-  padding-right: 10rem;
-  padding-left: 10rem;
 }
 
 .container .intro {
@@ -21,34 +19,15 @@
   background-color: royalblue;
 }
 
-.officers2 {
-  padding-top: 3rem;
-}
-
-.officers2 .img-hold {
-  border-radius: 50%;
-  height: 100px;
-  width: 100px;
-  float: left;
-  border: solid rgba(0, 0, 0, 0.171);
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-}
-
-.officers2 .card {
-  margin-left: 4rem;
-  margin-right: 4rem;
-}
-
 .officers {
   padding-top: 3rem;
+  padding-bottom: 3rem;
 }
 
 .officers .img-hold {
   border-radius: 50%;
-  height: 150px;
-  width: 150px;
+  height: 10vw;
+  width: 10vw;
   float: left;
   border: solid rgba(0, 0, 0, 0.171);
 }
@@ -57,9 +36,17 @@
   position: relative;
   top: 50%;
   transform: translateY(-50%);
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .card {
   border-radius: 1%;
   margin-bottom: 2rem;
+  margin-left: 14rem;
+  margin-right: 14rem;
+}
+
+.rango {
+  font-size: 2vw;
 }

@@ -1,67 +1,53 @@
-.container{
-    padding-top: 3rem;
-    padding-right: 10rem;
-    padding-left: 10rem;
-    .intro{
+.container {
+    padding-top: 3rem; // padding-right: 10rem;
+    // padding-left: 10rem;
+    .intro {
         text-align: center;
     }
- 
 }
-.contact{
+
+.contact {
     text-align: center;
     padding-bottom: 3rem;
 }
-::selection{
+
+::selection {
     background-color: royalblue;
 }
-::-moz-selection{
+
+::-moz-selection {
     background-color: royalblue;
 }
 
-
-
-.officers2{
+.officers {
     padding-top: 3rem;
-    .img-hold{
+    padding-bottom: 3rem;
+    .img-hold {
         border-radius: 50%;
-        height:100px;
-        width: 100px;
-        float: left;
-        border: solid rgba(0, 0, 0, 0.171);
-        position: relative;
-        top: 50%;
-        transform: translateY(-50%);
-    }
-    .card{
-        // padding-right: 10rem;
-        // padding-left: 10rem;
-        margin-left: 4rem;
-        margin-right: 4rem;
-    }
-}
-
-
-.officers{
-    padding-top: 3rem;
-
-
-    .img-hold{
-        border-radius: 50%;
-        height:150px;
-        width: 150px;
+        height: 10vw;
+        width: 10vw;
         float: left;
         border: solid rgba(0, 0, 0, 0.171);
     }
-
 }
 
-    .names{
-        position: relative;
-top: 50%;
-transform: translateY(-50%);
-    }
-    
-    .card{
-        border-radius: 1%;
-     margin-bottom: 2rem;
-    }
+.names {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.card {
+    border-radius: 1%;
+    margin-bottom: 2rem;
+    margin-left: 14rem;
+    margin-right: 14rem;
+}
+
+.rango {
+    font-size: 2vw;
+}
+
+
