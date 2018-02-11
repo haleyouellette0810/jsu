@@ -1,5 +1,6 @@
 body .container {
   padding-top: 3vw;
+  padding-bottom: 3vw;
 }
 
 body .container h1 {
@@ -21,12 +22,13 @@ body .container p {
 
 body .container p:hover {
   font-size: 2vw;
+  /* HOVER ON */
 }
 
 ::selection {
-  background-color: rgba(34, 34, 34, 0.37);
+  background-color: rgba(34, 34, 34, 0.103);
 }
 
 ::-moz-selection {
-  background-color: rgba(34, 34, 34, 0.37);
+  background-color: rgba(34, 34, 34, 0.103);
 }
